@@ -1,0 +1,12 @@
+torch==1.13.1
+deepchem==2.7.1
+dgllife==0.3.2
+dgl==1.1.2
+packaging==23.2
+molfeat==0.9.6
+tqdm
+numpy
+pandas
+matplotlib
+sklearn
+redkit
